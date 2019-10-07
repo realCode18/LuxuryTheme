@@ -1,0 +1,48 @@
+/*
+* LUXURY - Landing page for Real Estate
+* Build Date: March 2019
+* Last Update: March 2019
+* Author: Alessio Frugoni
+* Copyright (C) 2019 Alessio Frugoni
+* This is a premium product available exclusively here : https://alessiofrugoni.com
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Nunito:200,300,400,700');
+
+//General
+$color-primary: #e8e8e8; //#2176ff
+$color-primary-opacity: rgba(#9ac220, 0.6);
+$color-background-overlay: rgba(#747a87, 0.8);
+$color-background-overlay-work: rgba(#2176ff, 0.8);
+$color-background-services: #303745;
+$color-paragraph: #747a87;
+
+//Font
+$color-h1:#323643;
+$color-h2:#323643;
+$color-h3:#323643;
+$color-h4:#323643;
+$color-h5:#323643;
+
+//Navbar
+$color-background-nav: trasparent;
+$color-background-nav-scrolled: rgba(255, 255, 255, 0);
+
+//Social color
+$colorfa-facebook: white;
+$colorfa-dribbble-square: white;
+
+//Footer
+$bg-footer-color: rgb(185, 185, 185);
+
+/*******************************************************************************
+Color Button
+*******************************************************************************/
+//About
+$color-font-about: #212529;
+$color-background-about: #fdfdfd00;
+$color-border-about: #656565;
+//About:hover
+$color-font-about-hover: #ffffff;
+$color-background-about-hover: $color-primary;
+$color-border-about-hover: #ffffff;
